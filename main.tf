@@ -13,10 +13,10 @@ resource "aws_instance" "example_server" {
 
 
 
-  tags = {
+#  tags = {
 
-    Name = "JacksBlogExample"
+ #   Name = "JacksBlogExample"
 
-  }
+ # }
 
 }
