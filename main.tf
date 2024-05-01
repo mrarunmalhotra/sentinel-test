@@ -2,11 +2,6 @@ provider "aws" {
 
   region  = "us-west-2"
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 7b3ede3fee8d0e5e8aaa9171bc08ae7deff3114e
 }
 
 
