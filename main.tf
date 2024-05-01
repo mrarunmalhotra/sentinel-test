@@ -2,7 +2,7 @@ provider "aws" {
 
   region  = "us-west-2"
 
-  #profile = "jack.roper"
+
 
 }
 
