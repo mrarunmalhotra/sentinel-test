@@ -2,10 +2,6 @@ provider "aws" {
 
   region  = "us-west-2"
 
-  #profile = "jack.roper"
-  #access_key = "AKIASKGRHVTQBUUTATM3"
-  #secret_key = "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"
-
 }
 
 
