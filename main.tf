@@ -1,22 +1,22 @@
-terraform {
+#terraform {
 
-  required_providers {
+#  required_providers {
 
-    aws = {
+ #   aws = {
 
-      source  = "hashicorp/aws"
+  #    source  = "hashicorp/aws"
 
-      version = "~> 4.16"
+   #   version = "~> 4.16"
 
-    }
+   # }
 
-  }
+ # }
 
 
 
-  required_version = ">= 1.2.0"
+  #required_version = ">= 1.2.0"
 
-}
+#}
 
 
 
